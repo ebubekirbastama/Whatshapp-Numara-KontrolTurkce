@@ -1,0 +1,13 @@
+C:\Users\bekra\source\repos\Whatshapp Numara Kontrol Türkçe\Paylaşım Botu Tarayıcı Entegre\obj\Debug\Paylaşım Botu Tarayıcı Entegre.csprojAssemblyReference.cache
+C:\Users\bekra\source\repos\Whatshapp Numara Kontrol Türkçe\Paylaşım Botu Tarayıcı Entegre\obj\Debug\Paylaşım_Botu_Tarayıcı_Entegre.AnaSayfa.resources
+C:\Users\bekra\source\repos\Whatshapp Numara Kontrol Türkçe\Paylaşım Botu Tarayıcı Entegre\obj\Debug\Paylaşım_Botu_Tarayıcı_Entegre.Properties.Resources.resources
+C:\Users\bekra\source\repos\Whatshapp Numara Kontrol Türkçe\Paylaşım Botu Tarayıcı Entegre\obj\Debug\Paylaşım Botu Tarayıcı Entegre.csproj.GenerateResource.cache
+C:\Users\bekra\source\repos\Whatshapp Numara Kontrol Türkçe\Paylaşım Botu Tarayıcı Entegre\obj\Debug\Paylaşım Botu Tarayıcı Entegre.csproj.CoreCompileInputs.cache
+C:\Users\bekra\source\repos\Whatshapp Numara Kontrol Türkçe\Paylaşım Botu Tarayıcı Entegre\bin\Debug\Paylaşım Botu Tarayıcı Entegre.exe.config
+C:\Users\bekra\source\repos\Whatshapp Numara Kontrol Türkçe\Paylaşım Botu Tarayıcı Entegre\bin\Debug\Paylaşım Botu Tarayıcı Entegre.exe
+C:\Users\bekra\source\repos\Whatshapp Numara Kontrol Türkçe\Paylaşım Botu Tarayıcı Entegre\bin\Debug\Paylaşım Botu Tarayıcı Entegre.pdb
+C:\Users\bekra\source\repos\Whatshapp Numara Kontrol Türkçe\Paylaşım Botu Tarayıcı Entegre\bin\Debug\WebDriver.xml
+C:\Users\bekra\source\repos\Whatshapp Numara Kontrol Türkçe\Paylaşım Botu Tarayıcı Entegre\bin\Debug\WebDriver.Support.xml
+C:\Users\bekra\source\repos\Whatshapp Numara Kontrol Türkçe\Paylaşım Botu Tarayıcı Entegre\obj\Debug\Paylaşım Botu Tarayıcı Entegre.csproj.CopyComplete
+C:\Users\bekra\source\repos\Whatshapp Numara Kontrol Türkçe\Paylaşım Botu Tarayıcı Entegre\obj\Debug\Paylaşım Botu Tarayıcı Entegre.exe
+C:\Users\bekra\source\repos\Whatshapp Numara Kontrol Türkçe\Paylaşım Botu Tarayıcı Entegre\obj\Debug\Paylaşım Botu Tarayıcı Entegre.pdb
